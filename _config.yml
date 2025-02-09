@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 title: Cool Business Homepage
-description: Bookmark this to keep an eye on my project updates!
-
+description: Welcome!
+text: ================================================================
 ---
-layout: post
+
 title: Enter Cool Title Here
 ---
+text: ================================================================
