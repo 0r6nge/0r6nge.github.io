@@ -1,11 +1,6 @@
 theme: jekyll-theme-minimal
 title: Cool Business Homepage
 description: Welcome!
-title: ================================================================
-text: ================================================================
 
-button: Button
-title: Enter Cool Title Here
-
-text: ================================================================
-title: ================================================================
+theme: dark-poole
+description: Enter cool information here...
